@@ -7,8 +7,3 @@ location: "Nyala, Sudan"
 ---
 
 
-Number Theory
-======
-
-Measure Theory
-======
