@@ -1,5 +1,5 @@
 ---
-title: "A combinatorial interpretation of Mahonian numbers of types B and"
+title: "A combinatorial interpretation of Mahonian numbers of types B and D"
 collection: publications
 category: manuscripts
 permalink:  https://doi.org/10.1007/s11139-025-01130-6
